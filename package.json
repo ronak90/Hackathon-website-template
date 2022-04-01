@@ -3,6 +3,10 @@
   "name": "hackathon-website-template",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=10.16.0",
+    "npm": ">=6.9.0"
+  },
   "dependencies": {
     "@devexpress/dx-core": "^2.7.6",
     "@devexpress/dx-react-core": "^2.7.6",
